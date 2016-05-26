@@ -1,6 +1,6 @@
 {
   "name": "zetta-peer-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Follow redirects while peering",
   "main": "redirect.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "Adam Magaluk <AdamMagaluk@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "revolt": "^0.9.0",
     "rx": "^4.1.0"
   },
   "devDependencies": {},
